@@ -15,7 +15,10 @@ export const Main = () => {
           value.length >= MIN_WORD_LENGTH && setLetters(value.toUpperCase())
         }
       />
-      <ResultDisplay letters={letters} permutations={permutations} />
+      <ResultDisplay
+        letters={letters.substr(0, 7)}
+        permutations={permutations}
+      />
     </MainStyled>
   );
 };
