@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scrabble-master/static/css/main.5977cf58.chunk.css",
-    "main.js": "/scrabble-master/static/js/main.28bb2367.chunk.js",
-    "main.js.map": "/scrabble-master/static/js/main.28bb2367.chunk.js.map",
+    "main.js": "/scrabble-master/static/js/main.4cc43bab.chunk.js",
+    "main.js.map": "/scrabble-master/static/js/main.4cc43bab.chunk.js.map",
     "runtime~main.js": "/scrabble-master/static/js/runtime~main.0fdd47c6.js",
     "runtime~main.js.map": "/scrabble-master/static/js/runtime~main.0fdd47c6.js.map",
     "static/js/2.c1f626a9.chunk.js": "/scrabble-master/static/js/2.c1f626a9.chunk.js",
     "static/js/2.c1f626a9.chunk.js.map": "/scrabble-master/static/js/2.c1f626a9.chunk.js.map",
     "index.html": "/scrabble-master/index.html",
-    "precache-manifest.0edb0daafd0bc01140ac6c8a381bcc7e.js": "/scrabble-master/precache-manifest.0edb0daafd0bc01140ac6c8a381bcc7e.js",
+    "precache-manifest.74ca2fefc82d4ea65f7be19cde84920a.js": "/scrabble-master/precache-manifest.74ca2fefc82d4ea65f7be19cde84920a.js",
     "service-worker.js": "/scrabble-master/service-worker.js",
     "static/css/main.5977cf58.chunk.css.map": "/scrabble-master/static/css/main.5977cf58.chunk.css.map"
   }
