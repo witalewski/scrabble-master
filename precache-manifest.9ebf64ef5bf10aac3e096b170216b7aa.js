@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "338340373b19157858db3e64ae167407",
+    "revision": "7098724119c288bf53f34e47cc7cddc4",
     "url": "/scrabble-master/index.html"
   },
   {
-    "revision": "b71dff38ca5f6886d220",
+    "revision": "3909d6a2b74f78c7bb93",
     "url": "/scrabble-master/static/css/main.5977cf58.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrabble-master/static/js/2.c1f626a9.chunk.js"
   },
   {
-    "revision": "b71dff38ca5f6886d220",
-    "url": "/scrabble-master/static/js/main.9d3fef19.chunk.js"
+    "revision": "3909d6a2b74f78c7bb93",
+    "url": "/scrabble-master/static/js/main.79cb217b.chunk.js"
   },
   {
     "revision": "cc0877bd40b0ebc75ce0",
