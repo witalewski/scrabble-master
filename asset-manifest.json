@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scrabble-master/static/css/main.5977cf58.chunk.css",
+    "main.js": "/scrabble-master/static/js/main.15b54b3a.chunk.js",
+    "main.js.map": "/scrabble-master/static/js/main.15b54b3a.chunk.js.map",
+    "runtime~main.js": "/scrabble-master/static/js/runtime~main.0fdd47c6.js",
+    "runtime~main.js.map": "/scrabble-master/static/js/runtime~main.0fdd47c6.js.map",
+    "static/js/2.c1f626a9.chunk.js": "/scrabble-master/static/js/2.c1f626a9.chunk.js",
+    "static/js/2.c1f626a9.chunk.js.map": "/scrabble-master/static/js/2.c1f626a9.chunk.js.map",
+    "index.html": "/scrabble-master/index.html",
+    "precache-manifest.c8b2dd89520ffbf711002b1a098c2062.js": "/scrabble-master/precache-manifest.c8b2dd89520ffbf711002b1a098c2062.js",
+    "service-worker.js": "/scrabble-master/service-worker.js",
+    "static/css/main.5977cf58.chunk.css.map": "/scrabble-master/static/css/main.5977cf58.chunk.css.map"
+  }
+}
